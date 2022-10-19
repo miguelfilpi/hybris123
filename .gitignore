@@ -1,0 +1,11 @@
+/log
+/temp
+/bin/modules/
+/bin/platform/
+/roles
+.DS_STORE
+data/
+**/jalo/*
+**/Generated*
+**/eclipsebin/**
+.class
